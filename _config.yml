@@ -5,7 +5,7 @@ welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank"
 description: Vno Jekyll is a port of my Ghost theme vno.
 creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://vno.onevcat.com"
+url: "http://www.ohcurious.com"
 
 permalink: /:year/:month/:title/
 
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    weibo:   
+    github: lealexie
+    twitter: 
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: leaseven@outlook.com
 
 # Google Analytics
 ga:
